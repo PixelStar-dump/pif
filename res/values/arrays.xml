@@ -12,15 +12,15 @@
 
     <!-- Device 1 -->
     <string-array name="device_1" translatable="false">
-        <item></item> <!-- PRODUCT -->
-        <item></item> <!-- DEVICE -->
-        <item></item> <!-- MANUFACTURER -->
-        <item></item> <!-- BRAND -->
-        <item></item> <!-- MODEL -->
-        <item></item> <!-- FINGERPRINT -->
-        <item></item> <!-- SECURITY_PATCH -->
-        <item></item> <!-- FIRST_API_LEVEL -->
-        <item></item> <!-- ID -->
+        <item>griffin_retcn</item> <!-- PRODUCT -->
+        <item>griffin</item> <!-- DEVICE -->
+        <item>motorola</item> <!-- MANUFACTURER -->
+        <item>motorola</item> <!-- BRAND -->
+        <item>XT1650-05</item> <!-- MODEL -->
+        <item>motorola/griffin_retcn/griffin:6.0.1/MCC24.246-37/42:user/release-keys</item> <!-- FINGERPRINT -->
+        <item>2016-07-01</item> <!-- SECURITY_PATCH -->
+        <item>21</item> <!-- FIRST_API_LEVEL -->
+        <item>MCC24.246-37</item> <!-- ID -->
         <item></item> <!-- TYPE -->
         <item></item> <!-- TAGS -->
     </string-array>
